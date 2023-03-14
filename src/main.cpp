@@ -3,6 +3,8 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
+
+
 #define ONE_WIRE_BUS D2         // Порт для датчика
 #define TEMPERATURE_PRECISION 9 // Какая-то точность (не понятно)
 
